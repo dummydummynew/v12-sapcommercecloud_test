@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://www.zeroturnaround.com">
+  <classpath>
+    <dir name="/var/www/akash_n/v12-Release/CXCOMCL221100U_43-70007431/hybris/bin/custom/novalnetbackoffice/backoffice/classes" />
+  </classpath>
+</application>

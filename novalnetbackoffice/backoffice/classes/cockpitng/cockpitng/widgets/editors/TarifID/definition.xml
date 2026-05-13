@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<editor-definition id="com.data.tarifid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xsi:noNamespaceSchemaLocation="http://www.hybris.com/schema/cockpitng/editor-definition.xsd">
+
+    <name>TarifID</name>
+    <description>TarifID</description>
+
+    <type>java.lang.String</type>
+<editorClassName>org.training.NovalnetKeys.TariffIdEditor</editorClassName>
+</editor-definition>
+

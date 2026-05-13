@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<editor-definition id="com.keys.productactivationkey"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="http://www.hybris.com/schema/cockpitng/editor-definition.xsd">
+	<name>ProductActivationKeyEditor</name>
+	<description>ProductActivationKeyEditor</description>
+	<type>java.lang.String</type>
+	<editorClassName>org.training.novalnetkeys.ProductActivationKeyEditor</editorClassName>
+</editor-definition>
+
